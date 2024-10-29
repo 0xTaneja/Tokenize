@@ -18,12 +18,13 @@ export function TokenLaunch()
 
     async function generateToken()
     {
+        
        const mintPair=Keypair.generate();
        const metadata={
         mint:mintPair.publicKey,
         name:tokenname,
         symbol:tokensymbol,
-        uri:tokenimageurl,
+        // uri:tokenimageurl,
         additionalMetadata:[]
        }
 
