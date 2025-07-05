@@ -1,4 +1,4 @@
-# Tokenize 🏗️🎉
+# Tokenize
 
 A Solana **token-launchpad** that lets creators mint SPL tokens from their browser. Built with React + Vite, TailwindCSS, and `@solana/web3.js`.
 
@@ -94,4 +94,4 @@ Pull requests are welcome – see `CONTRIBUTING.md` soon.
 
 ## License
 
-MIT © 2025 Your Name
+MIT © 2025 Dev Rush
